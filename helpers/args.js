@@ -1,0 +1,6 @@
+
+const getArgs = () => {
+
+}
+
+export {getArgs}	
