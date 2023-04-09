@@ -1,14 +1,14 @@
 {
-  "name": "weather-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "weather-cli-ugk",
+  "version": "1.0.1",
+  "description": "CLI for getting weather",
   "main": "weather.js",
   "bin": {
     "weather": "weather.js"
   },
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "start": "node weather.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
